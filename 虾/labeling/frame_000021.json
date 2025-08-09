@@ -1,0 +1,330 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "shrimp",
+      "score": null,
+      "points": [
+        [
+          172.19512195121956,
+          415.609756097561
+        ],
+        [
+          613.6585365853658,
+          415.609756097561
+        ],
+        [
+          613.6585365853658,
+          661.9512195121952
+        ],
+        [
+          172.19512195121956,
+          661.9512195121952
+        ]
+      ],
+      "group_id": 0,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp",
+      "score": null,
+      "points": [
+        [
+          1669.7560975609756,
+          413.17073170731703
+        ],
+        [
+          1911.2195121951218,
+          413.17073170731703
+        ],
+        [
+          1911.2195121951218,
+          866.8292682926829
+        ],
+        [
+          1669.7560975609756,
+          866.8292682926829
+        ]
+      ],
+      "group_id": 4,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp head",
+      "score": null,
+      "points": [
+        [
+          284.390243902439,
+          486.3414634146342
+        ]
+      ],
+      "group_id": 0,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp head",
+      "score": null,
+      "points": [
+        [
+          1791.7073170731708,
+          783.9024390243902
+        ]
+      ],
+      "group_id": 4,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp body",
+      "score": null,
+      "points": [
+        [
+          1855.1219512195123,
+          640.0
+        ]
+      ],
+      "group_id": 4,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp tail",
+      "score": null,
+      "points": [
+        [
+          494.1463414634146,
+          613.170731707317
+        ]
+      ],
+      "group_id": 0,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp tail",
+      "score": null,
+      "points": [
+        [
+          1845.3658536585367,
+          505.8536585365854
+        ]
+      ],
+      "group_id": 4,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp body",
+      "score": null,
+      "points": [
+        [
+          381.9512195121951,
+          579.0243902439024
+        ]
+      ],
+      "group_id": 0,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp",
+      "score": null,
+      "points": [
+        [
+          160.00000000000006,
+          518.0487804878048
+        ],
+        [
+          386.82926829268285,
+          518.0487804878048
+        ],
+        [
+          386.82926829268285,
+          932.6829268292682
+        ],
+        [
+          160.00000000000006,
+          932.6829268292682
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp head",
+      "score": null,
+      "points": [
+        [
+          325.8536585365854,
+          854.6341463414634
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp tail",
+      "score": null,
+      "points": [
+        [
+          255.12195121951223,
+          627.8048780487804
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp body",
+      "score": null,
+      "points": [
+        [
+          303.9024390243903,
+          744.8780487804878
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp",
+      "score": null,
+      "points": [
+        [
+          406.3414634146342,
+          666.8292682926829
+        ],
+        [
+          884.3902439024392,
+          666.8292682926829
+        ],
+        [
+          884.3902439024392,
+          925.3658536585366
+        ],
+        [
+          406.3414634146342,
+          925.3658536585366
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp head",
+      "score": null,
+      "points": [
+        [
+          511.219512195122,
+          776.5853658536586
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "shrimp body",
+      "score": null,
+      "points": [
+        [
+          635.609756097561,
+          771.7073170731707
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "shrimp tail",
+      "score": null,
+      "points": [
+        [
+          811.219512195122,
+          796.0975609756098
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000021.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

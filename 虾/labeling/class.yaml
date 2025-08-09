@@ -1,0 +1,12 @@
+# 关键点标注配置文件
+# 用于定义姿态估计任务中的类别、关键点及可见性标记
+
+# 是否包含关键点可见性标记（0: 不可见, 1: 遮挡, 2: 可见）
+has_visible: true
+
+# 定义类别及其对应的关键点列表
+classes:
+  shrimp:
+    - shrimp head
+    - shrimp body
+    - shrimp tail
