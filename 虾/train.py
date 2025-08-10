@@ -52,7 +52,7 @@ if __name__ == "__main__":
     parser.add_argument('--epochs', type=int, default=50, help='训练轮数')
     parser.add_argument('--imgsz', type=int, default=640, help='训练图像尺寸')
     parser.add_argument('--device', type=str, default="cuda", help='运行设备 (cpu, cuda, 0, 1等)')
-    parser.add_argument('--batch', type=int, default=16, help='批处理大小')
+    parser.add_argument('--batch', type=int, default=8, help='批处理大小')
     parser.add_argument('--workers', type=int, default=4, help='数据加载进程数')
     parser.add_argument('--project', type=str, default="runs/pose", help='项目保存路径')
     parser.add_argument('--name', type=str, default="train", help='实验名称')

@@ -22,5 +22,9 @@ flip_idx: []
 names:
   0: shrimp
 
+skeleton:
+  - [0, 1] # shrimp skeleton (keypoint connections)
+  - [1, 2]
+
 # Download script/URL (optional)
 #download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco8-pose.zip

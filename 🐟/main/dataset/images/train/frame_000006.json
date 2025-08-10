@@ -1,0 +1,590 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          599.0,
+          0.0
+        ],
+        [
+          811.0,
+          0.0
+        ],
+        [
+          811.0,
+          212.0
+        ],
+        [
+          599.0,
+          212.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          531.0,
+          94.0
+        ],
+        [
+          589.0,
+          94.0
+        ],
+        [
+          589.0,
+          187.0
+        ],
+        [
+          531.0,
+          187.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          669.0,
+          236.0
+        ],
+        [
+          805.0,
+          236.0
+        ],
+        [
+          805.0,
+          336.0
+        ],
+        [
+          669.0,
+          336.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          795.0,
+          227.0
+        ],
+        [
+          960.0,
+          227.0
+        ],
+        [
+          960.0,
+          376.0
+        ],
+        [
+          795.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          68.0,
+          148.0
+        ],
+        [
+          244.0,
+          148.0
+        ],
+        [
+          244.0,
+          201.0
+        ],
+        [
+          68.0,
+          201.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          177.0,
+          206.0
+        ],
+        [
+          339.0,
+          206.0
+        ],
+        [
+          339.0,
+          256.0
+        ],
+        [
+          177.0,
+          256.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          463.0,
+          242.0
+        ],
+        [
+          549.0,
+          242.0
+        ],
+        [
+          549.0,
+          278.0
+        ],
+        [
+          463.0,
+          278.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          345.0,
+          223.0
+        ],
+        [
+          435.0,
+          223.0
+        ],
+        [
+          435.0,
+          267.0
+        ],
+        [
+          345.0,
+          267.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          399.0,
+          271.0
+        ],
+        [
+          434.0,
+          271.0
+        ],
+        [
+          434.0,
+          295.0
+        ],
+        [
+          399.0,
+          295.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          464.0,
+          333.0
+        ],
+        [
+          585.0,
+          333.0
+        ],
+        [
+          585.0,
+          385.0
+        ],
+        [
+          464.0,
+          385.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          145.0,
+          289.0
+        ],
+        [
+          265.0,
+          289.0
+        ],
+        [
+          265.0,
+          369.0
+        ],
+        [
+          145.0,
+          369.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          313.0,
+          286.0
+        ],
+        [
+          381.0,
+          286.0
+        ],
+        [
+          381.0,
+          351.0
+        ],
+        [
+          313.0,
+          351.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          0.0,
+          345.0
+        ],
+        [
+          126.0,
+          345.0
+        ],
+        [
+          126.0,
+          406.0
+        ],
+        [
+          0.0,
+          406.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          140.0,
+          368.0
+        ],
+        [
+          358.0,
+          368.0
+        ],
+        [
+          358.0,
+          512.0
+        ],
+        [
+          140.0,
+          512.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          0.0,
+          419.0
+        ],
+        [
+          167.0,
+          419.0
+        ],
+        [
+          167.0,
+          544.0
+        ],
+        [
+          0.0,
+          544.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          196.0,
+          427.4878048780488
+        ],
+        [
+          471.4634146341463,
+          427.4878048780488
+        ],
+        [
+          471.4634146341463,
+          543.0
+        ],
+        [
+          196.0,
+          543.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          636.0,
+          397.0
+        ],
+        [
+          752.0,
+          397.0
+        ],
+        [
+          752.0,
+          543.0
+        ],
+        [
+          636.0,
+          543.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          754.0,
+          431.0
+        ],
+        [
+          960.0,
+          431.0
+        ],
+        [
+          960.0,
+          544.0
+        ],
+        [
+          754.0,
+          544.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          567.0,
+          383.0
+        ],
+        [
+          611.0,
+          383.0
+        ],
+        [
+          611.0,
+          506.0
+        ],
+        [
+          567.0,
+          506.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "fish",
+      "score": null,
+      "points": [
+        [
+          341.0,
+          329.0
+        ],
+        [
+          440.0,
+          329.0
+        ],
+        [
+          440.0,
+          417.0
+        ],
+        [
+          341.0,
+          417.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000006.jpg",
+  "imageData": null,
+  "imageHeight": 544,
+  "imageWidth": 960
+}
